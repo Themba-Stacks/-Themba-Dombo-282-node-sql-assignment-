@@ -1,0 +1,19 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Themba-Stacks/node-sql.git"
+  },
+  "author": "Themba Dombo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Themba-Stacks/node-sql/issues"
+  },
+  "homepage": "https://github.com/Themba-Stacks/node-sql#readme"
+}
