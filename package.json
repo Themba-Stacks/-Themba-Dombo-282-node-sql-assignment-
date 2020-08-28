@@ -1,10 +1,12 @@
 {
   "name": "sql",
   "version": "1.0.0",
-  "description": "",
+  "description": "docker and database",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "watch": "jasmine --watch *.js",
+    "runf": "node index.js"
   },
   "repository": {
     "type": "git",
