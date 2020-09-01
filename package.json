@@ -10,12 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Themba-Stacks/node-sql.git"
+    "url": "git+https://github.com/Umuzi-org/Themba-Dombo-282-node-sql-assignment-.git"
   },
   "author": "Themba Dombo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Themba-Stacks/node-sql/issues"
   },
-  "homepage": "https://github.com/Themba-Stacks/node-sql#readme"
+  "homepage": "https://github.com/Umuzi-org/Themba-Dombo-282-node-sql-assignment-#readme",
+  "keywords": [
+    "docker",
+    "and",
+    "sql"
+  ]
 }
