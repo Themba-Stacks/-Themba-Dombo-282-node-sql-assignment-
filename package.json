@@ -1,0 +1,26 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "docker and database",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "watch": "jasmine --watch *.js",
+    "runf": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Themba-Dombo-282-node-sql-assignment-.git"
+  },
+  "author": "Themba Dombo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Themba-Stacks/node-sql/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Themba-Dombo-282-node-sql-assignment-#readme",
+  "keywords": [
+    "docker",
+    "and",
+    "sql"
+  ]
+}
